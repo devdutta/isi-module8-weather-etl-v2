@@ -1,7 +1,7 @@
-# Weather ETL Agent — V2 (Debate Round) — ISI Module 10
+# Weather ETL Agent — V2 (Debate Round) — ISI Module 8
 
-This repository contains the **Weather ETL Agent V2** workflow for the ISI course
-*Applied Agentic AI for Modern Data Engineering* — **Module 10: AgenticOps for Lifecycle Management of Autonomous AI Agents**.
+This repository contains the **Weather ETL Agent V2** workflow built in the ISI course
+*Applied Agentic AI for Modern Data Engineering* — **Module 8** (Dify workflow build). It is shared again as **optional, advanced-learning material for Module 10** (AgenticOps / observability), where several students asked to inspect and trace the V2 debate pipeline.
 
 > **⚠️ V2 is optional.** It is **NOT required** for the Module 10 Assignment or Quiz — both are based entirely on **V1**. V2 is shared purely for **advanced learning**, for students who want to see how a multi-LLM debate pattern works and how observability scales with a more complex pipeline.
 
